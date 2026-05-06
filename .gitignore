@@ -1,2 +1,7 @@
 STL10
+.venv/
+.uv-cache/
+outputs/
+__pycache__/
+*.py[cod]
 AGENTS.md
